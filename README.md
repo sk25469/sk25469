@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **increasing my knowledge in the backend of Android Development.**
 
-- 🌱 I’m currently learning **Quantum Computing, Kotlin for Android Development.**
+- 🌱 I’m currently learning **Kotlin for Android Development.**
 
 - 📝 I regularly write articles on [https://sk25469.wixsite.com/against-intuition](https://sk25469.wixsite.com/against-intuition)
 
