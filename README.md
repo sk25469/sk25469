@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Sarwar</h1>
-<h3 align="center">A second year undergrad from National Institute of Technology Silchar. I am a full stack Android Developer and currently increasing my knowledge about mobile app development. I love competitive programming and I am proficient in Data Structures and Algorithms in C++.</h3>
+<h3 align="center">A second year undergrad from National Institute of Technology Silchar. I am a full stack Android Developer and currently increasing my knowledge about mobile app development and building REST APIs using Python. I love competitive programming and I am proficient in Data Structures and Algorithms in C++.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p>
 
-- 🔭 I’m currently working on **increasing my knowledge in the backend of Android Development.**
+- 🔭 I’m currently working on **increasing my knowledge in the backend of App Development.**
 
-- 🌱 I’m currently learning **Flutter app Development and building REST API.**
+- 🌱 I’m currently learning about **Flutter app Development and building REST API.**
 
 - 📝 I regularly write articles on [https://sk25469.wixsite.com/against-intuition](https://sk25469.wixsite.com/against-intuition)
 
