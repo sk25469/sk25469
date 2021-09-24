@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning about **Flutter app Development and building REST API.**
 
-- 📝 I regularly write articles on [https://sk25469.wixsite.com/against-intuition](https://sk25469.wixsite.com/against-intuition)
-
 - 📫 How to reach me **sk25469@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iaceHS12UiBC96Ax74xgPtVvtb5aabPd/view?usp=sharing](https://drive.google.com/file/d/1iaceHS12UiBC96Ax74xgPtVvtb5aabPd/view?usp=sharing)
