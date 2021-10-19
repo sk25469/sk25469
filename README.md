@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **increasing my knowledge in the backend of App Development.**
 
-- 🌱 I’m currently learning about **Flutter app Development and building REST API.**
+- 🌱 I’m currently learning about **Flutter App Development and building REST API.**
 
 - 📫 How to reach me **sk25469@gmail.com**
 
