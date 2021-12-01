@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Sarwar</h1>
-<h3 align="center">A third year undergrad from National Institute of Technology Silchar. I am a Mobile App Developer, currently increasing my knowledge about flutter app development and building REST APIs. I love competitive programming and I am comfortable in Data Structures and Algorithms in C++.</h3>
+<h3 align="center">A third year undergrad from National Institute of Technology Silchar. I am a Mobile App Developer, currently increasing my knowledge about flutter app development. I love competitive programming and I am comfortable in Data Structures and Algorithms in C++.</h3>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
 
-- 🔭 I’m currently working on **increasing my knowledge in the backend of App Development.**
+- 🔭 I’m currently working on **increasing my knowledge in the backend development in Java.**
 
 - 🌱 I’m currently learning about **Flutter App Development and building REST API.**
 
