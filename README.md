@@ -3,9 +3,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
 
-- 🔭 I’m currently working on **increasing my knowledge in the backend development in Java.**
-
-- 🌱 I’m currently learning about **Flutter App Development**
+- 🌱 I’m currently learning about **Flutter App Development and backend development using Spring Boot**
 
 - 📫 How to reach me **sk25469@gmail.com**
 
