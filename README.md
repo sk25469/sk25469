@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Flutter App Development and backend development using Spring Boot**
 
-- 📫 How to reach me **sk25469@gmail.com**
+- 📫 Reach me at **sk25469@gmail.com**
 
 - 📄 Know about my experiences by [my resume](https://drive.google.com/file/d/1-A53YpEvsTg2gLTDv2IWkptkxLvjH4MV/view?usp=sharing)
 - 🧑‍💻 Want to know more? Visit my [website](https://sk25469.github.io)
