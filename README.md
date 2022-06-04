@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sarwar</h1>
-<h3 align="center">A final year undergrad from National Institute of Technology Silchar. I am a Flutter Developer, and I love developing mobile apps with beautiful UI/UX. I have been developing android apps for more than a year now. I worked on several different android applications for different startups and clients.</h3>
+<h3 align="center">A final year undergrad from National Institute of Technology Silchar. I am a Flutter Developer, and I love developing mobile apps with beautiful UI/UX. I have been developing android apps for more than a year now. I worked on several android applications for different startups and clients.</h3>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
 
