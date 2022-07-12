@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **sk25469@gmail.com**
 
-- 📄 Know about my experience by [my resume](https://drive.google.com/file/d/11N33jYWOL50wWH2GRCYN1usYD0v2zgTb/view?usp=sharing)
+- 📄 Know about my experience by [my resume](https://drive.google.com/file/d/11QoZbeVa4U9qltrlp9QOzxz41GxEzAfG/view?usp=sharing)
 - 🧑‍💻 Want to know more? Visit my [website](https://sk25469.github.io)
 
 <h3 align="left">Connect with me:</h3>
