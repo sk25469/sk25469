@@ -18,6 +18,8 @@
 <a href="https://auth.geeksforgeeks.org/user/sk25469/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk25469/profile" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?sk25469)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk25469&langs_count=10&theme=tokyonight&layout=compact" alt="sk25469" /></p>
 
