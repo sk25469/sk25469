@@ -3,7 +3,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
 
-- 🌱 I’m currently learning about **Flutter App Development and backend development using Spring Boot**
+- 🌱 I’m currently learning about **Flutter App Development and backend development using GO**
 
 - 📫 Reach me at **server.sahil.sarwar@gmail.com**
 
