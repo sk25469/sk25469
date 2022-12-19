@@ -10,13 +10,13 @@
 - 📄 Know about my experience by [my resume](https://drive.google.com/file/d/11QoZbeVa4U9qltrlp9QOzxz41GxEzAfG/view?usp=sharing)
 - 🧑‍💻 Want to know more? Visit my [website](https://sk25469.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sahilsarwar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahilsarwar1" height="30" width="40" /></a>
 <a href="https://fb.com/theoriginalsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theoriginalsahil" height="30" width="40" /></a>
 <a href="https://instagram.com/the_originalsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_originalsahil" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sk25469/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk25469/profile" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk25469&label=Profile%20views&color=0e75b6&style=flat" alt="sk25469" /> </p>
 
