@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Sarwar</h1>
-<h3 align="center">A final year undergrad from National Institute of Technology Silchar. I am a Flutter Developer, and I love developing mobile apps with beautiful UI/UX. I have been developing android apps for more than 2 years now. I worked on several android applications for different startups and clients.</h3>
+<h3 align="center">A final year undergrad from National Institute of Technology Silchar. I am proficient in a wide range of programming languages, including C++, Golang, Dart, and Python. Additionally, I am well-versed in various tools and frameworks such as Docker, Flutter, Git, and AWS. With a strong understanding of Data Structures & Algorithms, I can develop efficient and scalable solutions. 
+
+Moreover, I have hands-on experience with databases like Postgres, MongoDB, and MySQL.
+
+I'm always eager to collaborate on exciting projects and explore new technologies. If you're looking for a dedicated and versatile Full Stack Developer, feel free to reach out to me. Let's build something awesome together!</h3>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
 
-- 🌱 I’m currently learning about **Flutter App Development and backend development using GO**
+<!-- - 🌱 I’m currently learning about **Flutter App Development and backend development using GO** -->
 
 - 📫 Reach me at **server.sahil.sarwar@gmail.com**
 
