@@ -11,7 +11,7 @@ I'm always eager to collaborate on exciting projects and explore new technologie
 
 - 📫 Reach me at **server.sahil.sarwar@gmail.com**
 
-- 📄 Know about my experience by [my resume]([https://drive.google.com/file/d/11QoZbeVa4U9qltrlp9QOzxz41GxEzAfG/view?usp=sharing](https://drive.google.com/file/d/1O5LHlwMMvzVKJVeWSs_7h52R-t_NGuUs/view?usp=sharing))
+- 📄 Know about my experience by [my resume]([https://drive.google.com/file/d/11QoZbeVa4U9qltrlp9QOzxz41GxEzAfG/view?usp=sharing])
 - 🧑‍💻 Want to know more? Visit my [website](https://sk25469.github.io)
 
 <!-- <h3 align="left">Connect with me:</h3>
