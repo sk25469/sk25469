@@ -1,32 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sahil Sarwar</h1>
-<h3 align="center">A final year undergrad from National Institute of Technology Silchar. I am proficient in a wide range of programming languages, including C++, Golang, Dart, and Python. Additionally, I am well-versed in various tools and frameworks such as Docker, Flutter, Git, and AWS. With a strong understanding of Data Structures & Algorithms, I can develop efficient and scalable solutions. 
+# 👋 Hi, I'm Sahil Sarwar
 
-Moreover, I have hands-on experience with databases like Postgres, MongoDB, and MySQL.
+I'm a **Software Developer** with a strong focus on building scalable and efficient systems. My expertise spans across backend development, DevOps, and full-stack projects, leveraging languages like **C++, Go, Dart, Python, and Node.js**.
 
-I'm always eager to collaborate on exciting projects and explore new technologies. If you're looking for a dedicated and versatile Full Stack Developer, feel free to reach out to me. Let's build something awesome together!</h3>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk25469" alt="sk25469" /></a> </p> -->
+## 🚀 What I Do
 
-<!-- - 🌱 I’m currently learning about **Flutter App Development and backend development using GO** -->
+### Professional Experience
+- **Software Developer at Brane Enterprises**  
+  - **Predictive Test Analysis Tool**: Designed and implemented a tool that mines code changes and identifies impacted tests, reducing testing time by 12%.
+  - **Triage System**: Developed a system in Node.js and MongoDB to manage 200K+ daily test cases, cutting triage time by 40-50%.
+  - **Kubernetes-based Rerun Tool**: Created a tool in Go to automatically rerun failed test cases, reducing rerun time by 20%.
+  - **Chaos Engineering**: Implemented application-level chaos engineering for Java services, injecting various failures to analyze application behavior under stress.
 
-- 📫 Reach me at **server.sahil.sarwar@gmail.com**
+### Projects
+- **[KV (Distributed In-Memory Database)](https://github.com/sk25469/kv)**:  
+  - Implemented transactional capabilities with atomic operations for data integrity.
+  - Developed a publish-subscribe system for real-time communication and updates.
+- **[Dumsharaz (Multiplayer Guessing Game)](https://github.com/sk25469/dumsharaz)**:  
+  - Built a real-time multiplayer game with socket connections, where clients can join rooms, chat, and draw on a canvas.
 
-- 📄 Know about my experience by [my resume](https://drive.google.com/file/d/1O5LHlwMMvzVKJVeWSs_7h52R-t_NGuUs/view?usp=drive_link).
-- 🧑‍💻 Want to know more? Visit my [website](https://sk25469.github.io)
+## 🛠️ Skills
+- **Languages**: C++, Go (Golang), Dart, Python, Node.js (Express), JavaScript
+- **Tools/Frameworks**: Docker, Git, AWS (Lambda, EC2, S3), Kubernetes, Microservices, RESTful APIs
+- **Databases**: Postgres, MongoDB (NoSQL), MySQL, Redis
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sahilsarwar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahilsarwar1" height="30" width="40" /></a>
-<a href="https://fb.com/theoriginalsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theoriginalsahil" height="30" width="40" /></a>
-<a href="https://instagram.com/the_originalsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_originalsahil" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sk25469/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sk25469/profile" height="30" width="40" /></a>
-</p> -->
+## 🌱 What I'm Learning
+I'm continuously exploring new technologies and improving my skills in **distributed systems, concurrency, and cloud-native development**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk25469&label=Profile%20views&color=0e75b6&style=flat" alt="sk25469" /> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk25469&langs_count=10&theme=tokyonight&layout=compact" alt="sk25469" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk25469&show_icons=true&theme=synthwave" alt="sk25469" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk25469&theme=radical&hide_border=true" alt="sk25469" /></p>
+## 📫 Connect with Me
+- **LinkedIn**: [Sahil Sarwar](https://www.linkedin.com/in/sahilsarwar1/)
+- **GitHub**: [sk25469](https://github.com/sk25469)
+- **LeetCode**: [imSahil169](https://leetcode.com/imSahil169/)
+- **CodeChef**: [im_sahil_123](https://www.codechef.com/users/im_sahil_123)
+- **Codeforces**: [im_Sahil](https://codeforces.com/profile/im_Sahil)
