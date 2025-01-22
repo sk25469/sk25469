@@ -5,11 +5,8 @@ I'm a **Software Developer** with a strong focus on building scalable and effici
 ## 🚀 What I Do
 
 ### Professional Experience
+- **Software Engineer at Confluent**
 - **Software Developer at Brane Enterprises**  
-  - **Predictive Test Analysis Tool**: Designed and implemented a tool that mines code changes and identifies impacted tests, reducing testing time by 12%.
-  - **Triage System**: Developed a system in Node.js and MongoDB to manage 200K+ daily test cases, cutting triage time by 40-50%.
-  - **Kubernetes-based Rerun Tool**: Created a tool in Go to automatically rerun failed test cases, reducing rerun time by 20%.
-  - **Chaos Engineering**: Implemented application-level chaos engineering for Java services, injecting various failures to analyze application behavior under stress.
 
 ### Projects
 - **[KV (Distributed In-Memory Database)](https://github.com/sk25469/kv)**:  
