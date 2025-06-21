@@ -26,6 +26,4 @@ I'm continuously exploring new technologies and improving my skills in **distrib
 ## 📫 Connect with Me
 - **LinkedIn**: [Sahil Sarwar](https://www.linkedin.com/in/sahilsarwar1/)
 - **GitHub**: [sk25469](https://github.com/sk25469)
-- **LeetCode**: [imSahil169](https://leetcode.com/imSahil169/)
-- **CodeChef**: [im_sahil_123](https://www.codechef.com/users/im_sahil_123)
-- **Codeforces**: [im_Sahil](https://codeforces.com/profile/im_Sahil)
+- **Substack**: [sahil.server](https://sahilserver.substack.com/)
